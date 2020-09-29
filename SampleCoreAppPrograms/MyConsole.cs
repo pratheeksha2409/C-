@@ -8,5 +8,15 @@ namespace SampleCoreApp
         {
             throw new NotImplementedException();
         }
+
+        internal static int getNumber(string v)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal static double getDouble(string v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
